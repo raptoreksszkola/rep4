@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?php
+        echo "cos1";
+    ?>
 </body>
 </html>
